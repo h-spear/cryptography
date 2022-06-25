@@ -1,6 +1,3 @@
-from tkinter.messagebox import NO
-
-
 def powmod(C, n, mod):
     res = 1
     while n:
